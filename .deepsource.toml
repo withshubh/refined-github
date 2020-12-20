@@ -12,3 +12,4 @@ enabled = true
     "nodejs",
     "browser"
   ]
+    module_system = "es-modules"
